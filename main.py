@@ -1,6 +1,5 @@
 import requests
 import re
-import sys
 
 
 class NewsDuplicate:
